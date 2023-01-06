@@ -12,6 +12,11 @@
   - Image of exercises
   - Recommended number of reps / Recommended duration
   - Instructions
+<img src="/repo/expanded_with_instructions.png" alt="Sample Exercise Card" style="width:270px;"/>
   
 ### Material Design
-- This app has a light and dark theme as shown:
+- This app has a light and dark theme.
+  - Light Theme
+  - <img src="/repo/light_theme.png" alt="Light Theme" style="width:270px;"/>
+  - Dark Theme
+  - <img src="/repo/dark_theme.png" alt="Dark Theme" style="width:270px;"/>
